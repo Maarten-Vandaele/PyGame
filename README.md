@@ -17,5 +17,7 @@ I separated the different stages of the development in different py files to get
 ## screenshots
 
 ![Block](./assets/Block.PNG?raw=true "First block") 
+
 ![sprite](./assets/enemy.PNG?raw=true "Sprite and enemy") 
+
 ![Health](./assets/health.PNG?raw=true "Health bar and effects")
